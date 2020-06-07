@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/banner.png"/>
-</h1>
-
 <h2 align="center">NextLevelWeek #01 - Ecoleta ♻️</h2>
 
 ## Projeto
