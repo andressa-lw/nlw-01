@@ -56,15 +56,11 @@ $ npm run start
 
 ### Mobile (mobile) 
 ```bash
-# Vá para a pasta da aplicação Front End
-$ cd mobile
-
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação
 $ expo start
-
 
 # Use o App expo baixado no seu celular
 ```
